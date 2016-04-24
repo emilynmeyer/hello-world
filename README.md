@@ -1,2 +1,2 @@
 # hello-world
-Just another repository.
+Tamzi here! I like reading and baking, and I'm going to school for engineering!
